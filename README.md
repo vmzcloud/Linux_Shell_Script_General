@@ -20,5 +20,5 @@ Auto yum update script for RHEL
 Generate cpu usage and memory usage using sar
 ```
 # cron job
-0 7 * * * /var/log/sa/sar-avg.sh
+0 7 * * * /root/scripts/sar-avg.sh
 ```
