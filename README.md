@@ -29,3 +29,6 @@ Generate audit report
 # cron job
 0 6 1 * * /root/scripts/gen-aureport.sh
 ```
+
+### report_audit.sh
+Adhoc generate report to check
