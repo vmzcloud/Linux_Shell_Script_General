@@ -22,3 +22,10 @@ Generate cpu usage and memory usage using sar
 # cron job
 0 7 * * * /root/scripts/sar-avg.sh
 ```
+## Audit Report
+### gen-aureport.sh
+Generate audit report
+```
+# cron job
+0 6 1 * * /root/scripts/gen-aureport.sh
+```
